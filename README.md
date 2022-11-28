@@ -24,6 +24,14 @@ Users should be able to:
 
 - View the optimal layout depending on their device's screen size
 
+
+
+### Links
+
+- Solution URL: [View URL here](https://github.com/Abdullahi-abdiaziz/Stats-preview-card-component)
+- Live Site URL: [View live site URL here](https://stats-preview-card-component-c9.netlify.app/)
+
+
 ## My process
 
 ### Built with
