@@ -93,7 +93,11 @@ main {
     position: absolute;
     background-color: var(--accent);
     top: 0;
-    opacity: .5;
+    opacity: .1
+}
+img {
+    mix-blend-mode: multiply; 
+    opacity: .8;
 }
 .content-header {
     margin-block: 30px;
